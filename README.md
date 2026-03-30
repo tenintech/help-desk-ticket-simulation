@@ -1,3 +1,4 @@
+<p align="center">
 <img width="352" height="259" alt="zendesk logo" src="https://github.com/user-attachments/assets/3ef7886b-8468-435c-83db-f44c3dadbc57" />
 
 
