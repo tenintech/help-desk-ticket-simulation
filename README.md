@@ -11,6 +11,7 @@
 
 This lab demonstrates how a help desk technician manages and resolves IT support tickets using Zendesk.
 A trial environment was configured to simulate real-world IT support requests and workflows.
+Simulated help desk tickets using Zendesk and resolved issues in a virtualized Windows environment
 
 ---
 
