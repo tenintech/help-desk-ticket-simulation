@@ -37,4 +37,29 @@ Email Problem
 Slow Computer
 
 
+# Ticket Title: [Issue Name]
 
+## Ticket ID:
+HD-00X
+
+## User Issue:
+[Describe the problem as if a real user submitted it]
+
+## Environment:
+- OS:
+- Device:
+- Network:
+
+## Steps Taken to Troubleshoot:
+1.
+2.
+3.
+
+## Resolution:
+[What fixed the issue]
+
+## Verification:
+[How you confirmed it worked]
+
+## Notes:
+[Any lessons learned or alternative fixes]
