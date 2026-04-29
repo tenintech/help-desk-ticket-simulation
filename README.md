@@ -42,18 +42,14 @@ Email Problem
 Slow Computer
 
 
-# 🎫Ticket 001: “I’m trying to install an app but it won’t let me.”
-
-
-## Ticket ID:
-HD-00X
+# 🎫Ticket 001: User Cannot Install Software 
 
 ## User Issue:
-[Describe the problem as if a real user submitted it]
+“I’m trying to install an app but it won’t let me.”
 
 ## Environment:
-- OS:
-- Device:
+- OS: Windows 10
+- Device: Company Laptop 
 - Network:
 
 ## Steps Taken to Troubleshoot:
