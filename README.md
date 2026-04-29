@@ -40,7 +40,14 @@ VPN Issue
 Software Installation
 Email Problem
 Slow Computer
+# Step 1: Set Up - Build Company Enviornment 
 
+
+Inside my Windows VM (within Virtual Box) I created 2 accounts in Computer Management
+
+   - IT Admin (Administrator)
+   - Jan White (End User)
+   - vboxuser (Computer Name)
 
 # 🎫Ticket 001: User Cannot Install Software 
 
