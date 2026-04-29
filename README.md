@@ -28,6 +28,11 @@ Example users and departments
 Ticket categories
 Ticket priority levels
 
+## Enviornments Used 
+Virtual Box 
+Zendesk 
+Windows 10 Pro 
+
 Common ticket types used:
 
 Password Reset
@@ -37,7 +42,8 @@ Email Problem
 Slow Computer
 
 
-# Ticket Title: [Issue Name]
+# 🎫Ticket 001: “I’m trying to install an app but it won’t let me.”
+
 
 ## Ticket ID:
 HD-00X
